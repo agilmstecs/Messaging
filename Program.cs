@@ -6,6 +6,9 @@ namespace MessagingCash
     {
         static void Main(string[] args)
         {
+            //Singleton instance = new Singleton();
+            //instance.CreateVm().Wait();
+            
             //UseRedis();
             //UseSearch();
             //UseEventHub();
